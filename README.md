@@ -1,0 +1,1 @@
+# WordPressDetector-Firefox-
