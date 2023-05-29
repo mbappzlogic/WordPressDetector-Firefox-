@@ -1,0 +1,19 @@
+body {
+    background-color: #f1f5f9;
+}
+
+.wrapper {
+    width: 300px;
+    text-align: center;
+}
+
+.checkFiles {
+    width: 100px;
+    background-color: #E62020;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 7px;
+    padding: 5px;
+    border: none;
+    outline: none;
+}
