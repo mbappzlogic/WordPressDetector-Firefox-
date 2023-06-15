@@ -41,7 +41,8 @@ The plugin will perform a scan of the webpage and identify WordPress files based
 The plugin may display a list of detected WordPress file URLs.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Wordpress Detector ](https://github.com/mbappzlogic/WordPressDetector-Firefox-/assets/125997781/e6b87a24-c3dd-4ea7-8e41-672302062d6e)
+
 
 
 ## Contributing
