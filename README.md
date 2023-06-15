@@ -1,3 +1,4 @@
+![MicrosoftTeams-image](https://github.com/mbappzlogic/WordPressDetector-Firefox-/assets/125997781/ad687fae-8ec7-42ca-8153-90b6982f2655)
 
 # WordPress Detector Plugin
 
