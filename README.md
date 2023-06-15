@@ -1,7 +1,7 @@
 
 # WordPress Detector Plugin
 
-The WordPress Detector Plugin is a powerful browser extension tool that allows you to detect WordPress files within webpages. This tool provides insights into whether a website is built on the WordPress platform and enables you to view the associated files. This README provides instructions on how to install the plugin and explains the process how to use 
+The WordPress Detector Plugin is a powerful browser extension tool that allows you to detect WordPress files within webpages. This README provides instructions on how to install the plugin and explains the process how to use 
 
 
 
