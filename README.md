@@ -1,7 +1,7 @@
 
 # WordPress Detector Plugin
 
-Detects WordPress files that use JavaScript code on the browser. This is a Firefox extension or plugin for Firefox. This extension uses AJAX calls to retrieve the URL of the active tab, construct a list of WordPress-related file URLs, check their availability, and send the list of found files back to the extension's background script. This README provides instructions on how to install the plugin and explains the process how to use 
+Detects WordPress files that use JavaScript code on the browser. The extension or plugin is for Firefox. This extension uses AJAX calls to retrieve the URL of the active tab, construct a list of WordPress-related file URLs, check their availability, and send the list of found files back to the extension's background script. This README provides instructions on how to install the plugin and explains the process how to use 
 
 
 
