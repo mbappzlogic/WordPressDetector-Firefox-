@@ -60,3 +60,7 @@ Contributions to the WordPress Detector Plugin are welcome! If you encounter any
 The WordPress Detector Plugin is released under the 
 [MIT License.](https://choosealicense.com/licenses/mit/)
 
+
+## Support
+
+For support, email info@appzlogic.com and join with us [Facebook](https://m.facebook.com/appzlogic/) [instagram](https://www.instagram.com/appzlogicmobility/) [Facebook](https://www.youtube.com/@Appzlogic) [twitter](https://twitter.com/appzlogic)
