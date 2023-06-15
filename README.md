@@ -12,11 +12,12 @@ Here are the steps you need to follow in order to install the extension
 ```bash
 git clone https://github.com/mbappzlogic/WordPressDetector-Firefox-.git
 ```
-
-
-```bash
 Extract the downloaded ZIP file to access the plugin files.
 
+```bash
+unzip WordPressDetector\(Firefox\).zip
+unzip Wordpress\ Detector.zip 
+```
 Open your Firefox browser.
 
 In the address bar, enter about:addons to open the Add-ons Manager.
@@ -26,7 +27,6 @@ Click on the gear icon in the top-right corner and select "Install Add-on From F
 Navigate to the location where you extracted the plugin files and select the manifest.json file.
 
 The WordPress Detector Plugin will be installed and activated in your Firefox browser.
-```
     
 ## Usage 
 Usage
