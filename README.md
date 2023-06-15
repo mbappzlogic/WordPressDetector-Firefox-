@@ -39,6 +39,11 @@ Click on the plugin icon in the Firefox toolbar.
 The plugin will perform a scan of the webpage and identify WordPress files based on their URLs.
 
 The plugin may display a list of detected WordPress file URLs.
+
+## Giff
+
+![Wordpress Detector Video](https://github.com/mbappzlogic/WordPressDetector-Firefox-/assets/125997781/abfa1c2e-c90f-4527-a9ea-0b2686b971d4)
+
 ## Screenshots
 
 ![Wordpress Detector ](https://github.com/mbappzlogic/WordPressDetector-Firefox-/assets/125997781/e6b87a24-c3dd-4ea7-8e41-672302062d6e)
